@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\sebas\OneDrive\Pulpit\pasja\12\test\main.cpp(57,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  test.vcxproj -> C:\Users\sebas\OneDrive\Pulpit\pasja\12\x64\Debug\test.exe
